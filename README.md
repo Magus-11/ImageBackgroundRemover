@@ -1,12 +1,13 @@
 # ImageBackgroundRemover
 ImageBackgroundRemover website to remove the background of images, build with HTML, CSS, JavaScript.
-##Demo
+
+## Demo
 [DemoLinkClickHere](https://magus-11.github.io/ImageBackgroundRemover/)
-##Additive Information About Website
+## Additive Information About Website
 * Upload Image
 * Remove Background of Image
 * Download the updated Image
-##Technology Used
+## Technology Used
 * HTML
 * CSS
 * JAVASCRIPT
